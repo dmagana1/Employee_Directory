@@ -9,7 +9,7 @@ Click the link to view project in Heroku: https://thawing-plateau-07267.herokuap
   #### If you click on the name it will sort the names in alphabetical order.
 
 ## Pictures
-![alt text](Employee_Directory/pictures.JPG)
+![alt text](pictures/pic1.JPG)
 
 
 
