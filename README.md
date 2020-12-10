@@ -6,9 +6,10 @@ This assignment was to create an employee directory with React, so that an emplo
 
 ## Links
 Click the link to view project in Heroku: https://thawing-plateau-07267.herokuapp.com/
+  #### If you click on the name it will sort the names in alphabetical order.
 
 ## Pictures
-
+![alt text](Employee_Directory/pictures.JPG)
 
 
 
